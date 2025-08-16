@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <h1>💪 FitLife - Fitness Website</h1>
-  <p>A modern, responsive, and dynamic fitness website built with HTML, CSS, and JavaScript.</p>
+  <p>A modern, responsive, and dynamic fitness website built with HTML, CSS.</p>
   <img src="Fitness%20Website/images/screenshot.PNG" alt="FitLife Fitness Website Screenshot" width="100%"/>
 </div>
 
